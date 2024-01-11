@@ -1,0 +1,886 @@
+{
+    "ExamInfos": [
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "ATİ101",
+            "ExamType": "Final",
+            "ExamDay": 16,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 12,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401"
+            ],
+            "CourseCode": "ATİ101",
+            "ExamType": "Final",
+            "ExamDay": 16,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "BMB213",
+            "ExamType": "Final",
+            "ExamDay": 16,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 15,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "BMB213",
+            "ExamType": "Final",
+            "ExamDay": 19,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 14,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "FZK107",
+            "ExamType": "Final",
+            "ExamDay": 16,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 13,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401",
+                "E402"
+            ],
+            "CourseCode": "FZK107",
+            "ExamType": "Final",
+            "ExamDay": 16,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 18,
+            "ExamMinute": 0
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "KMY004",
+            "ExamType": "Final",
+            "ExamDay": 26,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 8,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401",
+                "E402"
+            ],
+            "CourseCode": "KMY004",
+            "ExamType": "Final",
+            "ExamDay": 26,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "LIC002",
+            "ExamType": "Final",
+            "ExamDay": 18,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 13,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E301",
+                "E302"
+            ],
+            "CourseCode": "LIC002",
+            "ExamType": "Final",
+            "ExamDay": 18,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 15,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "MAT111",
+            "ExamType": "Final",
+            "ExamDay": 18,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 15,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401",
+                "E402"
+            ],
+            "CourseCode": "MAT111",
+            "ExamType": "Final",
+            "ExamDay": 18,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401",
+                "E402"
+            ],
+            "CourseCode": "MKB201",
+            "ExamType": "Final",
+            "ExamDay": 17,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 19,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "MKB201",
+            "ExamType": "Final",
+            "ExamDay": 25,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 8,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301"
+            ],
+            "CourseCode": "MKB203",
+            "ExamType": "Final",
+            "ExamDay": 24,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 8,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "MKB203",
+            "ExamType": "Final",
+            "ExamDay": 24,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 16,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401",
+                "E402",
+                "E403"
+            ],
+            "CourseCode": "MKB205",
+            "ExamType": "Final",
+            "ExamDay": 15,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 18,
+            "ExamMinute": 0
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "MKB205",
+            "ExamType": "Final",
+            "ExamDay": 22,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 10,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "MKB207",
+            "ExamType": "Final",
+            "ExamDay": 23,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 10,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401",
+                "E402"
+            ],
+            "CourseCode": "MKB207",
+            "ExamType": "Final",
+            "ExamDay": 23,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401",
+                "E402"
+            ],
+            "CourseCode": "MKB301",
+            "ExamType": "Final",
+            "ExamDay": 19,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "MKB301",
+            "ExamType": "Final",
+            "ExamDay": 22,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 8,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "MKB303",
+            "ExamType": "Final",
+            "ExamDay": 24,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 10,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401",
+                "E402",
+                "E403"
+            ],
+            "CourseCode": "MKB303",
+            "ExamType": "Final",
+            "ExamDay": 25,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401",
+                "E402",
+                "E403"
+            ],
+            "CourseCode": "MKB305",
+            "ExamType": "Final",
+            "ExamDay": 22,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "MKB305",
+            "ExamType": "Final",
+            "ExamDay": 25,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 10,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "MKB307",
+            "ExamType": "Final",
+            "ExamDay": 15,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 13,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401",
+                "E402"
+            ],
+            "CourseCode": "MKB307",
+            "ExamType": "Final",
+            "ExamDay": 15,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 19,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401",
+                "E402",
+                "E403"
+            ],
+            "CourseCode": "MKB309",
+            "ExamType": "Final",
+            "ExamDay": 17,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 18,
+            "ExamMinute": 0
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "MKB309",
+            "ExamType": "Final",
+            "ExamDay": 23,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 8,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "MKB311",
+            "ExamType": "Final",
+            "ExamDay": 24,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 18,
+            "ExamMinute": 0
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "MKB311",
+            "ExamType": "Final",
+            "ExamDay": 26,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 10,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "MKB405",
+            "ExamType": "Final",
+            "ExamDay": 15,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 15,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E301",
+                "E302"
+            ],
+            "CourseCode": "MKB411",
+            "ExamType": "Final",
+            "ExamDay": 18,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 13,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E403"
+            ],
+            "CourseCode": "MKB411",
+            "ExamType": "Final",
+            "ExamDay": 18,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E302"
+            ],
+            "CourseCode": "MKSB402",
+            "ExamType": "Final",
+            "ExamDay": 16,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 16,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E301"
+            ],
+            "CourseCode": "MKSB417",
+            "ExamType": "Final",
+            "ExamDay": 16,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 15,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E301"
+            ],
+            "CourseCode": "MKSB423",
+            "ExamType": "Final",
+            "ExamDay": 24,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 16,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E302"
+            ],
+            "CourseCode": "MKSB430",
+            "ExamType": "Final",
+            "ExamDay": 24,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 15,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E302"
+            ],
+            "CourseCode": "MKSB438",
+            "ExamType": "Final",
+            "ExamDay": 19,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 15,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301"
+            ],
+            "CourseCode": "TBT001",
+            "ExamType": "Final",
+            "ExamDay": 19,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 16,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "TDİ101",
+            "ExamType": "Final",
+            "ExamDay": 15,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 12,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401",
+                "E402"
+            ],
+            "CourseCode": "TDİ101",
+            "ExamType": "Final",
+            "ExamDay": 15,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301",
+                "E302"
+            ],
+            "CourseCode": "TRS105",
+            "ExamType": "Final",
+            "ExamDay": 15,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 16,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "YDİ109",
+            "ExamType": "Final",
+            "ExamDay": 17,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 12,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401",
+                "E402"
+            ],
+            "CourseCode": "YDİ109",
+            "ExamType": "Final",
+            "ExamDay": 17,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "İSGL101",
+            "ExamType": "Final",
+            "ExamDay": 17,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 13,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Makine Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401",
+                "E402"
+            ],
+            "CourseCode": "İSGL101",
+            "ExamType": "Final",
+            "ExamDay": 25,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 19,
+            "ExamMinute": 0
+        }
+    ]
+}

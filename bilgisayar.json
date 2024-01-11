@@ -1,0 +1,803 @@
+{
+    "ExamInfos": [
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "ATİ101",
+            "ExamType": "Final",
+            "ExamDay": 16,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 12,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "ATİ101",
+            "ExamType": "Final",
+            "ExamDay": 16,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "BMB103",
+            "ExamType": "Final",
+            "ExamDay": 17,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 9,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "BMB103",
+            "ExamType": "Final",
+            "ExamDay": 17,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 20,
+            "ExamMinute": 0
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "BMB203",
+            "ExamType": "Final",
+            "ExamDay": 18,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 10,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E102"
+            ],
+            "CourseCode": "BMB203",
+            "ExamType": "Final",
+            "ExamDay": 18,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301"
+            ],
+            "CourseCode": "BMB205",
+            "ExamType": "Final",
+            "ExamDay": 17,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 10,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E102",
+                "E203",
+                "E403"
+            ],
+            "CourseCode": "BMB205",
+            "ExamType": "Final",
+            "ExamDay": 17,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 18,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301",
+                "E302"
+            ],
+            "CourseCode": "BMB207",
+            "ExamType": "Final",
+            "ExamDay": 22,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 15,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301",
+                "E302"
+            ],
+            "CourseCode": "BMB309",
+            "ExamType": "Final",
+            "ExamDay": 17,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 15,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "BMB311",
+            "ExamType": "Final",
+            "ExamDay": 16,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 10,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "BMB311",
+            "ExamType": "Final",
+            "ExamDay": 16,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 18,
+            "ExamMinute": 0
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301",
+                "E302"
+            ],
+            "CourseCode": "BMB315",
+            "ExamType": "Final",
+            "ExamDay": 25,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 16,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "BMB317",
+            "ExamType": "Final",
+            "ExamDay": 22,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 13,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "BMB317",
+            "ExamType": "Final",
+            "ExamDay": 22,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "BMB319",
+            "ExamType": "Final",
+            "ExamDay": 19,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 10,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "BMB319",
+            "ExamType": "Final",
+            "ExamDay": 19,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 18,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "BMSB403",
+            "ExamType": "Final",
+            "ExamDay": 16,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 9,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "BMSB403",
+            "ExamType": "Final",
+            "ExamDay": 16,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 19,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301"
+            ],
+            "CourseCode": "BMSB406",
+            "ExamType": "Final",
+            "ExamDay": 23,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 15,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "BMSB421",
+            "ExamType": "Final",
+            "ExamDay": 26,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 16,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "BMSB433",
+            "ExamType": "Final",
+            "ExamDay": 17,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 16,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301"
+            ],
+            "CourseCode": "DFD002",
+            "ExamType": "Final",
+            "ExamDay": 23,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 13,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "DFD002",
+            "ExamType": "Final",
+            "ExamDay": 23,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "FZK107",
+            "ExamType": "Final",
+            "ExamDay": 24,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 13,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E401",
+                "E402",
+                "E403"
+            ],
+            "CourseCode": "FZK107",
+            "ExamType": "Final",
+            "ExamDay": 24,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "LIC002",
+            "ExamType": "Final",
+            "ExamDay": 15,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 10,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "LIC002",
+            "ExamType": "Final",
+            "ExamDay": 15,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 18,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "LMİ104",
+            "ExamType": "Final",
+            "ExamDay": 18,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 9,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "LMİ104",
+            "ExamType": "Final",
+            "ExamDay": 18,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 19,
+            "ExamMinute": 0
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "MAT111",
+            "ExamType": "Final",
+            "ExamDay": 25,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 13,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "MAT111",
+            "ExamType": "Final",
+            "ExamDay": 25,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301"
+            ],
+            "CourseCode": "SYA003",
+            "ExamType": "Final",
+            "ExamDay": 26,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 14,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "SYA003",
+            "ExamType": "Final",
+            "ExamDay": 26,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 18,
+            "ExamMinute": 0
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301",
+                "E302"
+            ],
+            "CourseCode": "TBT001",
+            "ExamType": "Final",
+            "ExamDay": 22,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 16,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "CourseCode": "TDİ101",
+            "ExamType": "Final",
+            "ExamDay": 15,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 12,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "TDİ101",
+            "ExamType": "Final",
+            "ExamDay": 15,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "YD003",
+            "ExamType": "Final",
+            "ExamDay": 15,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 9,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "YD003",
+            "ExamType": "Final",
+            "ExamDay": 15,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 20,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "YDİ109",
+            "ExamType": "Final",
+            "ExamDay": 17,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 12,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "CourseCode": "YDİ109",
+            "ExamType": "Final",
+            "ExamDay": 17,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Güz",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301",
+                "E302"
+            ],
+            "CourseCode": "İSGL101",
+            "ExamType": "Final",
+            "ExamDay": 25,
+            "ExamMonth": 1,
+            "ExamYear": 2024,
+            "ExamHour": 15,
+            "ExamMinute": 30
+        }
+    ]
+}
