@@ -5,15 +5,19 @@
             "Department": "Bilgisayar Mühendisliği",
             "EducationType": "Gündüz",
             "Year": "2023-2024",
-            "Term": "Güz",
+            "Term": "Bahar",
             "Classrooms": [
-                "E201",
-                "E202"
+                "E301",
+                "E302"
             ],
-            "CourseCode": "ATİ101",
-            "ExamType": "Final",
+            "Proctors": [
+                "NİHAT EREN ÖZMEN",
+                "BURAK SEVİNÇ"
+            ],
+            "CourseCode": "ATİ102",
+            "ExamType": "Vize",
             "ExamDay": 16,
-            "ExamMonth": 1,
+            "ExamMonth": 4,
             "ExamYear": 2024,
             "ExamHour": 12,
             "ExamMinute": 30
@@ -23,15 +27,19 @@
             "Department": "Bilgisayar Mühendisliği",
             "EducationType": "Gece",
             "Year": "2023-2024",
-            "Term": "Güz",
+            "Term": "Bahar",
             "Classrooms": [
                 "E201",
                 "E202"
             ],
-            "CourseCode": "ATİ101",
-            "ExamType": "Final",
+            "Proctors": [
+                "NİHAT EREN ÖZMEN",
+                "BURAK SEVİNÇ"
+            ],
+            "CourseCode": "ATİ102",
+            "ExamType": "Vize",
             "ExamDay": 16,
-            "ExamMonth": 1,
+            "ExamMonth": 4,
             "ExamYear": 2024,
             "ExamHour": 17,
             "ExamMinute": 30
@@ -39,384 +47,27 @@
         {
             "Faculty": "Çorlu Mühendislik Fakültesi",
             "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz",
+            "EducationType": "Gündüz ve Gece",
             "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203"
-            ],
-            "CourseCode": "BMB103",
-            "ExamType": "Final",
-            "ExamDay": 17,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 9,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202"
-            ],
-            "CourseCode": "BMB103",
-            "ExamType": "Final",
-            "ExamDay": 17,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 20,
-            "ExamMinute": 0
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203"
-            ],
-            "CourseCode": "BMB203",
-            "ExamType": "Final",
-            "ExamDay": 18,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 10,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E102"
-            ],
-            "CourseCode": "BMB203",
-            "ExamType": "Final",
-            "ExamDay": 18,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 17,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz",
-            "Year": "2023-2024",
-            "Term": "Güz",
+            "Term": "Bahar",
             "Classrooms": [
                 "E201",
                 "E202",
                 "E203",
                 "E301"
             ],
-            "CourseCode": "BMB205",
-            "ExamType": "Final",
-            "ExamDay": 17,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 10,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E102",
-                "E203",
-                "E403"
+            "Proctors": [
+                "BURAK SEVİNÇ",
+                "GÜVENÇ USANMAZ",
+                "ŞERİFE ŞAFAK",
+                "VOLKAN YALI"
             ],
-            "CourseCode": "BMB205",
-            "ExamType": "Final",
-            "ExamDay": 17,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 18,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz ve Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203",
-                "E301",
-                "E302"
-            ],
-            "CourseCode": "BMB207",
-            "ExamType": "Final",
-            "ExamDay": 22,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 15,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz ve Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203",
-                "E301",
-                "E302"
-            ],
-            "CourseCode": "BMB309",
-            "ExamType": "Final",
-            "ExamDay": 17,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 15,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203"
-            ],
-            "CourseCode": "BMB311",
-            "ExamType": "Final",
-            "ExamDay": 16,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 10,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203"
-            ],
-            "CourseCode": "BMB311",
-            "ExamType": "Final",
-            "ExamDay": 16,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 18,
-            "ExamMinute": 0
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz ve Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203",
-                "E301",
-                "E302"
-            ],
-            "CourseCode": "BMB315",
-            "ExamType": "Final",
-            "ExamDay": 25,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 16,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203"
-            ],
-            "CourseCode": "BMB317",
-            "ExamType": "Final",
-            "ExamDay": 22,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 13,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202"
-            ],
-            "CourseCode": "BMB317",
-            "ExamType": "Final",
-            "ExamDay": 22,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 17,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203"
-            ],
-            "CourseCode": "BMB319",
-            "ExamType": "Final",
-            "ExamDay": 19,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 10,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202"
-            ],
-            "CourseCode": "BMB319",
-            "ExamType": "Final",
-            "ExamDay": 19,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 18,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202"
-            ],
-            "CourseCode": "BMSB403",
-            "ExamType": "Final",
-            "ExamDay": 16,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 9,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202"
-            ],
-            "CourseCode": "BMSB403",
-            "ExamType": "Final",
-            "ExamDay": 16,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 19,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz ve Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203",
-                "E301"
-            ],
-            "CourseCode": "BMSB406",
-            "ExamType": "Final",
-            "ExamDay": 23,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 15,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz ve Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202"
-            ],
-            "CourseCode": "BMSB421",
-            "ExamType": "Final",
+            "CourseCode": "BMB110",
+            "ExamType": "Vize",
             "ExamDay": 26,
-            "ExamMonth": 1,
+            "ExamMonth": 4,
             "ExamYear": 2024,
-            "ExamHour": 16,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz ve Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203"
-            ],
-            "CourseCode": "BMSB433",
-            "ExamType": "Final",
-            "ExamDay": 17,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 16,
+            "ExamHour": 15,
             "ExamMinute": 30
         },
         {
@@ -424,93 +75,19 @@
             "Department": "Bilgisayar Mühendisliği",
             "EducationType": "Gündüz",
             "Year": "2023-2024",
-            "Term": "Güz",
+            "Term": "Bahar",
             "Classrooms": [
                 "E201",
-                "E202",
-                "E203",
-                "E301"
+                "E202"
             ],
-            "CourseCode": "DFD002",
-            "ExamType": "Final",
-            "ExamDay": 23,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 13,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203"
+            "Proctors": [
+                "TUĞÇE TETİK",
+                "BURAK SEVİNÇ"
             ],
-            "CourseCode": "DFD002",
-            "ExamType": "Final",
-            "ExamDay": 23,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 17,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203"
-            ],
-            "CourseCode": "FZK107",
-            "ExamType": "Final",
-            "ExamDay": 24,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 13,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E401",
-                "E402",
-                "E403"
-            ],
-            "CourseCode": "FZK107",
-            "ExamType": "Final",
-            "ExamDay": 24,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 17,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203"
-            ],
-            "CourseCode": "LIC002",
-            "ExamType": "Final",
-            "ExamDay": 15,
-            "ExamMonth": 1,
+            "CourseCode": "BMB112",
+            "ExamType": "Vize",
+            "ExamDay": 19,
+            "ExamMonth": 4,
             "ExamYear": 2024,
             "ExamHour": 10,
             "ExamMinute": 30
@@ -520,16 +97,19 @@
             "Department": "Bilgisayar Mühendisliği",
             "EducationType": "Gece",
             "Year": "2023-2024",
-            "Term": "Güz",
+            "Term": "Bahar",
             "Classrooms": [
                 "E201",
-                "E202",
-                "E203"
+                "E202"
             ],
-            "CourseCode": "LIC002",
-            "ExamType": "Final",
-            "ExamDay": 15,
-            "ExamMonth": 1,
+            "Proctors": [
+                "GÜVENÇ USANMAZ",
+                "BURAK SEVİNÇ"
+            ],
+            "CourseCode": "BMB112",
+            "ExamType": "Vize",
+            "ExamDay": 19,
+            "ExamMonth": 4,
             "ExamYear": 2024,
             "ExamHour": 18,
             "ExamMinute": 30
@@ -537,76 +117,29 @@
         {
             "Faculty": "Çorlu Mühendislik Fakültesi",
             "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz",
+            "EducationType": "Gündüz ve Gece",
             "Year": "2023-2024",
-            "Term": "Güz",
+            "Term": "Bahar",
             "Classrooms": [
                 "E201",
                 "E202",
-                "E203"
+                "E203",
+                "E301",
+                "E302"
             ],
-            "CourseCode": "LMİ104",
-            "ExamType": "Final",
-            "ExamDay": 18,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 9,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202"
+            "Proctors": [
+                "NİHAT EREN ÖZMEN",
+                "GÜVENÇ USANMAZ",
+                "BURAK SEVİNÇ",
+                "VOLKAN YALI",
+                "ÖZGECAN ERKAN"
             ],
-            "CourseCode": "LMİ104",
-            "ExamType": "Final",
-            "ExamDay": 18,
-            "ExamMonth": 1,
+            "CourseCode": "BMB206",
+            "ExamType": "Vize",
+            "ExamDay": 22,
+            "ExamMonth": 4,
             "ExamYear": 2024,
-            "ExamHour": 19,
-            "ExamMinute": 0
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203"
-            ],
-            "CourseCode": "MAT111",
-            "ExamType": "Final",
-            "ExamDay": 25,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 13,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202",
-                "E203"
-            ],
-            "CourseCode": "MAT111",
-            "ExamType": "Final",
-            "ExamDay": 25,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 17,
+            "ExamHour": 16,
             "ExamMinute": 30
         },
         {
@@ -614,17 +147,99 @@
             "Department": "Bilgisayar Mühendisliği",
             "EducationType": "Gündüz",
             "Year": "2023-2024",
-            "Term": "Güz",
+            "Term": "Bahar",
             "Classrooms": [
                 "E201",
                 "E202",
                 "E203",
                 "E301"
             ],
-            "CourseCode": "SYA003",
-            "ExamType": "Final",
-            "ExamDay": 26,
-            "ExamMonth": 1,
+            "Proctors": [
+                "TUĞÇE TETİK",
+                "EMİNE GAMZE ABANOZOĞLU",
+                "VOLKAN YALI",
+                "HAYAL OKTAY"
+            ],
+            "CourseCode": "BMB208",
+            "ExamType": "Vize",
+            "ExamDay": 15,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 11,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301"
+            ],
+            "Proctors": [
+                "GÜVENÇ USANMAZ",
+                "NİHAT EREN ÖZMEN",
+                "BURAK SEVİNÇ",
+                "EMİNE GAMZE ABANOZOĞLU"
+            ],
+            "CourseCode": "BMB208",
+            "ExamType": "Vize",
+            "ExamDay": 15,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 18,
+            "ExamMinute": 0
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301"
+            ],
+            "Proctors": [
+                "BURAK SEVİNÇ",
+                "GÜVENÇ USANMAZ",
+                "NİHAT EREN ÖZMEN",
+                "VOLKAN YALI"
+            ],
+            "CourseCode": "BMB210",
+            "ExamType": "Vize",
+            "ExamDay": 25,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 16,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "Proctors": [
+                "HAYAL OKTAY",
+                "GÜVENÇ USANMAZ",
+                "BURAK SEVİNÇ"
+            ],
+            "CourseCode": "BMB212",
+            "ExamType": "Vize",
+            "ExamDay": 24,
+            "ExamMonth": 4,
             "ExamYear": 2024,
             "ExamHour": 14,
             "ExamMinute": 30
@@ -634,26 +249,29 @@
             "Department": "Bilgisayar Mühendisliği",
             "EducationType": "Gece",
             "Year": "2023-2024",
-            "Term": "Güz",
+            "Term": "Bahar",
             "Classrooms": [
                 "E201",
-                "E202",
-                "E203"
+                "E202"
             ],
-            "CourseCode": "SYA003",
-            "ExamType": "Final",
-            "ExamDay": 26,
-            "ExamMonth": 1,
+            "Proctors": [
+                "BURAK SEVİNÇ",
+                "GÜVENÇ USANMAZ"
+            ],
+            "CourseCode": "BMB212",
+            "ExamType": "Vize",
+            "ExamDay": 24,
+            "ExamMonth": 4,
             "ExamYear": 2024,
-            "ExamHour": 18,
-            "ExamMinute": 0
+            "ExamHour": 17,
+            "ExamMinute": 30
         },
         {
             "Faculty": "Çorlu Mühendislik Fakültesi",
             "Department": "Bilgisayar Mühendisliği",
             "EducationType": "Gündüz ve Gece",
             "Year": "2023-2024",
-            "Term": "Güz",
+            "Term": "Bahar",
             "Classrooms": [
                 "E201",
                 "E202",
@@ -661,10 +279,17 @@
                 "E301",
                 "E302"
             ],
-            "CourseCode": "TBT001",
-            "ExamType": "Final",
-            "ExamDay": 22,
-            "ExamMonth": 1,
+            "Proctors": [
+                "GÜVENÇ USANMAZ",
+                "NİHAT EREN ÖZMEN",
+                "BURAK SEVİNÇ",
+                "BURÇİN COŞKUN",
+                "TUĞÇE TETİK"
+            ],
+            "CourseCode": "BMB214",
+            "ExamType": "Vize",
+            "ExamDay": 17,
+            "ExamMonth": 4,
             "ExamYear": 2024,
             "ExamHour": 16,
             "ExamMinute": 30
@@ -674,18 +299,23 @@
             "Department": "Bilgisayar Mühendisliği",
             "EducationType": "Gündüz",
             "Year": "2023-2024",
-            "Term": "Güz",
+            "Term": "Bahar",
             "Classrooms": [
                 "E201",
                 "E202",
                 "E203"
             ],
-            "CourseCode": "TDİ101",
-            "ExamType": "Final",
-            "ExamDay": 15,
-            "ExamMonth": 1,
+            "Proctors": [
+                "NİHAT EREN ÖZMEN",
+                "GÜVENÇ USANMAZ",
+                "BURAK SEVİNÇ"
+            ],
+            "CourseCode": "BMB306",
+            "ExamType": "Vize",
+            "ExamDay": 24,
+            "ExamMonth": 4,
             "ExamYear": 2024,
-            "ExamHour": 12,
+            "ExamHour": 13,
             "ExamMinute": 30
         },
         {
@@ -693,15 +323,93 @@
             "Department": "Bilgisayar Mühendisliği",
             "EducationType": "Gece",
             "Year": "2023-2024",
-            "Term": "Güz",
+            "Term": "Bahar",
             "Classrooms": [
                 "E201",
                 "E202"
             ],
-            "CourseCode": "TDİ101",
-            "ExamType": "Final",
-            "ExamDay": 15,
-            "ExamMonth": 1,
+            "Proctors": [
+                "NİHAT EREN ÖZMEN",
+                "GÜVENÇ USANMAZ"
+            ],
+            "CourseCode": "BMB306",
+            "ExamType": "Vize",
+            "ExamDay": 24,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 18,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301",
+                "E302"
+            ],
+            "Proctors": [
+                "GÜVENÇ USANMAZ",
+                "NİHAT EREN ÖZMEN",
+                "BURAK SEVİNÇ",
+                "HAYAL OKTAY",
+                "ŞERİFE ŞAFAK"
+            ],
+            "CourseCode": "BMB308",
+            "ExamType": "Vize",
+            "ExamDay": 17,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 15,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "Proctors": [
+                "ŞERİFE ŞAFAK",
+                "ÖZGECAN ERKAN",
+                "TUĞÇE TETİK"
+            ],
+            "CourseCode": "BMB310",
+            "ExamType": "Vize",
+            "ExamDay": 18,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 10,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "Proctors": [
+                "NİHAT EREN ÖZMEN",
+                "GÜVENÇ USANMAZ"
+            ],
+            "CourseCode": "BMB310",
+            "ExamType": "Vize",
+            "ExamDay": 18,
+            "ExamMonth": 4,
             "ExamYear": 2024,
             "ExamHour": 17,
             "ExamMinute": 30
@@ -711,15 +419,21 @@
             "Department": "Bilgisayar Mühendisliği",
             "EducationType": "Gündüz",
             "Year": "2023-2024",
-            "Term": "Güz",
+            "Term": "Bahar",
             "Classrooms": [
                 "E201",
-                "E202"
+                "E202",
+                "E203"
             ],
-            "CourseCode": "YD003",
-            "ExamType": "Final",
-            "ExamDay": 15,
-            "ExamMonth": 1,
+            "Proctors": [
+                "TUĞÇE TETİK",
+                "VOLKAN YALI",
+                "ŞERİFE ŞAFAK"
+            ],
+            "CourseCode": "BMB312",
+            "ExamType": "Vize",
+            "ExamDay": 19,
+            "ExamMonth": 4,
             "ExamYear": 2024,
             "ExamHour": 9,
             "ExamMinute": 30
@@ -729,51 +443,19 @@
             "Department": "Bilgisayar Mühendisliği",
             "EducationType": "Gece",
             "Year": "2023-2024",
-            "Term": "Güz",
+            "Term": "Bahar",
             "Classrooms": [
                 "E201",
                 "E202"
             ],
-            "CourseCode": "YD003",
-            "ExamType": "Final",
-            "ExamDay": 15,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 20,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gündüz",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202"
+            "Proctors": [
+                "GÜVENÇ USANMAZ",
+                "BURAK SEVİNÇ"
             ],
-            "CourseCode": "YDİ109",
-            "ExamType": "Final",
-            "ExamDay": 17,
-            "ExamMonth": 1,
-            "ExamYear": 2024,
-            "ExamHour": 12,
-            "ExamMinute": 30
-        },
-        {
-            "Faculty": "Çorlu Mühendislik Fakültesi",
-            "Department": "Bilgisayar Mühendisliği",
-            "EducationType": "Gece",
-            "Year": "2023-2024",
-            "Term": "Güz",
-            "Classrooms": [
-                "E201",
-                "E202"
-            ],
-            "CourseCode": "YDİ109",
-            "ExamType": "Final",
-            "ExamDay": 17,
-            "ExamMonth": 1,
+            "CourseCode": "BMB312",
+            "ExamType": "Vize",
+            "ExamDay": 19,
+            "ExamMonth": 4,
             "ExamYear": 2024,
             "ExamHour": 17,
             "ExamMinute": 30
@@ -783,7 +465,7 @@
             "Department": "Bilgisayar Mühendisliği",
             "EducationType": "Gündüz ve Gece",
             "Year": "2023-2024",
-            "Term": "Güz",
+            "Term": "Bahar",
             "Classrooms": [
                 "E201",
                 "E202",
@@ -791,10 +473,401 @@
                 "E301",
                 "E302"
             ],
-            "CourseCode": "İSGL101",
-            "ExamType": "Final",
+            "Proctors": [
+                "BURAK SEVİNÇ",
+                "GÜVENÇ USANMAZ",
+                "NİHAT EREN ÖZMEN",
+                "ŞERİFE ŞAFAK",
+                "VOLKAN YALI"
+            ],
+            "CourseCode": "BMB314",
+            "ExamType": "Vize",
+            "ExamDay": 26,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 16,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "Proctors": [
+                "NİHAT EREN ÖZMEN",
+                "GÜVENÇ USANMAZ",
+                "BURAK SEVİNÇ"
+            ],
+            "CourseCode": "BMSB404",
+            "ExamType": "Vize",
+            "ExamDay": 22,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 15,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E302",
+                "E303"
+            ],
+            "Proctors": [
+                "NİHAT EREN ÖZMEN",
+                "HAYAL OKTAY"
+            ],
+            "CourseCode": "BMSB428",
+            "ExamType": "Vize",
+            "ExamDay": 26,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 15,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "Proctors": [
+                "TUĞÇE TETİK",
+                "ŞERİFE ŞAFAK"
+            ],
+            "CourseCode": "BMSB436",
+            "ExamType": "Vize",
+            "ExamDay": 17,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 10,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "Proctors": [
+                "GÜVENÇ USANMAZ",
+                "BURAK SEVİNÇ"
+            ],
+            "CourseCode": "BMSB436",
+            "ExamType": "Vize",
+            "ExamDay": 17,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 18,
+            "ExamMinute": 0
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "Proctors": [
+                "TUĞÇE TETİK",
+                "HAYAL OKTAY"
+            ],
+            "CourseCode": "FZK108",
+            "ExamType": "Vize",
+            "ExamDay": 16,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 10,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "Proctors": [
+                "BURAK SEVİNÇ",
+                "GÜVENÇ USANMAZ"
+            ],
+            "CourseCode": "FZK108",
+            "ExamType": "Vize",
+            "ExamDay": 16,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 18,
+            "ExamMinute": 0
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "Proctors": [
+                "TUĞÇE TETİK",
+                "HAYAL OKTAY"
+            ],
+            "CourseCode": "LMİ103",
+            "ExamType": "Vize",
+            "ExamDay": 18,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 9,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "Proctors": [
+                "NİHAT EREN ÖZMEN",
+                "GÜVENÇ USANMAZ"
+            ],
+            "CourseCode": "LMİ103",
+            "ExamType": "Vize",
+            "ExamDay": 18,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 18,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "Proctors": [
+                "BURAK SEVİNÇ",
+                "GÜVENÇ USANMAZ"
+            ],
+            "CourseCode": "MAT114",
+            "ExamType": "Vize",
             "ExamDay": 25,
-            "ExamMonth": 1,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 13,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "Proctors": [
+                "BURAK SEVİNÇ",
+                "NİHAT EREN ÖZMEN"
+            ],
+            "CourseCode": "MAT114",
+            "ExamType": "Vize",
+            "ExamDay": 25,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 18,
+            "ExamMinute": 0
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E302",
+                "E301"
+            ],
+            "Proctors": [
+                "GÜVENÇ USANMAZ",
+                "NİHAT EREN ÖZMEN"
+            ],
+            "CourseCode": "TDİ102",
+            "ExamType": "Vize",
+            "ExamDay": 15,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 12,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "Proctors": [
+                "BURAK SEVİNÇ",
+                "NİHAT EREN ÖZMEN"
+            ],
+            "CourseCode": "TDİ102",
+            "ExamType": "Vize",
+            "ExamDay": 15,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203"
+            ],
+            "Proctors": [
+                "ENGİN BIÇAKCI",
+                "TUĞÇE TETİK",
+                "NADİDE GÜLŞAH GÜLENÇ-TEKRAR"
+            ],
+            "CourseCode": "YD002",
+            "ExamType": "Vize",
+            "ExamDay": 17,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 9,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202"
+            ],
+            "Proctors": [
+                "NİHAT EREN ÖZMEN",
+                "BURAK SEVİNÇ"
+            ],
+            "CourseCode": "YD002",
+            "ExamType": "Vize",
+            "ExamDay": 17,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 19,
+            "ExamMinute": 0
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E301",
+                "E302"
+            ],
+            "Proctors": [
+                "NİHAT EREN ÖZMEN",
+                "GÜVENÇ USANMAZ"
+            ],
+            "CourseCode": "YDİ110",
+            "ExamType": "Vize",
+            "ExamDay": 17,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 12,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gece",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E203"
+            ],
+            "Proctors": [
+                "GÜVENÇ USANMAZ",
+                "NİHAT EREN ÖZMEN"
+            ],
+            "CourseCode": "YDİ110",
+            "ExamType": "Vize",
+            "ExamDay": 17,
+            "ExamMonth": 4,
+            "ExamYear": 2024,
+            "ExamHour": 17,
+            "ExamMinute": 30
+        },
+        {
+            "Faculty": "Çorlu Mühendislik Fakültesi",
+            "Department": "Bilgisayar Mühendisliği",
+            "EducationType": "Gündüz ve Gece",
+            "Year": "2023-2024",
+            "Term": "Bahar",
+            "Classrooms": [
+                "E201",
+                "E202",
+                "E203",
+                "E301",
+                "E302"
+            ],
+            "Proctors": [
+                "BURAK SEVİNÇ",
+                "GÜVENÇ USANMAZ",
+                "NİHAT EREN ÖZMEN",
+                "ŞERİFE ŞAFAK",
+                "TUĞÇE TETİK (TEKRAR)"
+            ],
+            "CourseCode": "İSGL102",
+            "ExamType": "Vize",
+            "ExamDay": 25,
+            "ExamMonth": 4,
             "ExamYear": 2024,
             "ExamHour": 15,
             "ExamMinute": 30
